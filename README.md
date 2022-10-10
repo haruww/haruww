@@ -2,12 +2,12 @@
 - Amateur Programmer
 - Who HATE Python-like language
 - Discord 하루#5970
+- Problem Solving [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=haruww)](https://solved.ac/haruww)
 
 ## Programming Stats
 
 ![Haru301's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruww&count_private=true&show_icons=true)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haruww)](https://solved.ac/haruww)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruww&layout=compact)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
