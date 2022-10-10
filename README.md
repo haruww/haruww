@@ -2,7 +2,6 @@
 - Amateur Programmer
 - Who HATE Python-like language
 - Discord 하루#5970
-- Problem Solving 
 
 ## Programming Stats
 
