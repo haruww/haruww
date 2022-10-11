@@ -1,8 +1,3 @@
-## Amateur Programmer
-1. I like Java
-2. I hate Python
-3. Contact Discord 하루#5970
-
 ## 🚩 Github Stats
 ![Haru301's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruww&count_private=true&show_icons=true)
 
