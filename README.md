@@ -8,7 +8,7 @@
 ![Haru301's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruww&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruww&layout=compact)
 
-
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=haruww)
 
 [![Solved.ac
 haruww](http://mazassumnida.wtf/api/mini/generate_badge?boj=haruww)](https://solved.ac/haruww)
