@@ -17,7 +17,7 @@
 
 
 ## 💻 Algorithm Stats
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=haruww)
+![Haru301's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=haruww)
 
 [![Solved.ac
 haruww](http://mazassumnida.wtf/api/mini/generate_badge?boj=haruww)](https://solved.ac/haruww)
